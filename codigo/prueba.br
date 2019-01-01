@@ -9,20 +9,21 @@ def funcion(algo):
 
 numero = 2 + 3%4 - 10
 
-class nombre:
+class Nombre:
     int nombre
     String otro
     def init():
         self.nombre
         self.otro;
 
-def funcionGRande():
-    for file in files:
-        cont = cont+1
 
-    while response=False:
-        numOffiles = input("\nNumero del test: ")
+    def otherFunction():
         for file in files:
-            if file == files(int(numOffiles)-1):
-                response = True
-                break
+            cont = cont+1
+
+        while response=False:
+            numOffiles = input("\nNumero del test: ")
+            for file in files:
+                if file == files(int(numOffiles)-1):
+                    response = True
+                    break
