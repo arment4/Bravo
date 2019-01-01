@@ -1,0 +1,28 @@
+
+
+import valor as esto
+from esto import soloesto
+
+def funcion(algo):
+    int variableNumerica = 3
+    String variable = "cadena";
+
+numero = 2 + 3%4 - 10
+
+class nombre:
+    int nombre
+    String otro
+    def init():
+        self.nombre
+        self.otro;
+
+def funcionGRande():
+    for file in files:
+        cont = cont+1
+
+    while response=False:
+        numOffiles = input("\nNumero del test: ")
+        for file in files:
+            if file == files(int(numOffiles)-1):
+                response = True
+                break
