@@ -1,0 +1,12 @@
+
+Const
+    m=7,
+    n=2;
+    
+#comentarios adiasjd
+
+var
+    x,y,z,q,r;
+
+Procedure multiply;
+VAR a, b;
